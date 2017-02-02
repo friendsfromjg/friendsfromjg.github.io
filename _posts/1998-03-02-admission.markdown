@@ -4,4 +4,4 @@ title: March 1998
 subtitle:
 image: "img/timeline/1.jpg"
 ---
-강릉고 38기 입학
+우리가 강릉고에 38기 입학하였다.
