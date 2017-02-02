@@ -1,6 +1,6 @@
 ---
 layout: null
-title: 2012-2016년
+title: 2012년 1월
 subtitle:
 image: "img/timeline/4.jpg"
 ---
