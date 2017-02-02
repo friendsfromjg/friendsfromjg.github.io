@@ -1,6 +1,6 @@
 ---
 layout: null
-title: 2001년 - 2011
+title: 2001-2011년
 subtitle:
 image: "img/timeline/4.jpg"
 ---
