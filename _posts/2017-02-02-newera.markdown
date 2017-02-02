@@ -2,6 +2,6 @@
 layout: null
 title: 2017년 2월
 subtitle:
-image: "img/timeline/4.jpg"
+image: "img/timeline/1.jpg"
 ---
-새로운 리더는 유종흔이고, 총무는 김봉기이다.
+2기 회장 유종흔, 총무 김봉기
