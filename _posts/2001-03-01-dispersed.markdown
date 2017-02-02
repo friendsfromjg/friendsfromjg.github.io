@@ -2,6 +2,6 @@
 layout: null
 title: 2001-2011년
 subtitle:
-image: "img/timeline/4.jpg"
+image: "img/timeline/3.jpg"
 ---
-흩어져 각자의 삶을 살았던 시간이다.
+기록되지 않은 시간
