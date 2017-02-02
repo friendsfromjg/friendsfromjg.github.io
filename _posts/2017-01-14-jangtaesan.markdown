@@ -1,6 +1,6 @@
 ---
 layout: null
-title: January 2017
+title: 2017년 1월 14일
 subtitle:
 image: "img/timeline/4.jpg"
 ---
