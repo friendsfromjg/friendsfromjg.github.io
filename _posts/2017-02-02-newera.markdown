@@ -4,4 +4,4 @@ title: January 2012 - January 2017
 subtitle:
 image: "img/timeline/4.jpg"
 ---
-이 페이지가 만들어졌다.
+이 페이지가 만들어졌다. 새로운 리더는 유종흔이고, 총무는 김봉기이다.
