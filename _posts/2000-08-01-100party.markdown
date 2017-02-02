@@ -1,0 +1,7 @@
+---
+layout: null
+title: August 2000
+subtitle:
+image: "img/timeline/2.jpg"
+---
+수능 백일주 사건
