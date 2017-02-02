@@ -4,4 +4,4 @@ title: 2000년 8월
 subtitle:
 image: "img/timeline/2.jpg"
 ---
-수능 백일주를 마셨던 시간이다. 많은 에피소드가 있었다.
+수능 백일주 사태
