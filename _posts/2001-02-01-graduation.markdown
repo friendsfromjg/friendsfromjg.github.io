@@ -4,4 +4,4 @@ title: February 2001
 subtitle:
 image: "img/timeline/3.jpg"
 ---
-강릉고 38기 졸업
+우리가 강릉고를 졸업하였다.
