@@ -1,6 +1,6 @@
 ---
 layout: null
-title: 2001년 2
+title: 2001년 2월
 subtitle:
 image: "img/timeline/3.jpg"
 ---
