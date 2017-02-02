@@ -1,6 +1,6 @@
 ---
 layout: null
-title: March 1998
+title: 1998년 3월
 subtitle:
 image: "img/timeline/1.jpg"
 ---
