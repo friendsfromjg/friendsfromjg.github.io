@@ -1,6 +1,6 @@
 ---
 layout: null
-title: 2000년 8
+title: 2000년 8월
 subtitle:
 image: "img/timeline/2.jpg"
 ---
