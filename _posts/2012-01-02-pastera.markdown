@@ -1,0 +1,7 @@
+---
+layout: null
+title: 2012-2016년
+subtitle:
+image: "img/timeline/4.jpg"
+---
+기록되지 않은 1기 모임들
